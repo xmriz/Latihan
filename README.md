@@ -1,2 +1,2 @@
 # Latihan
-latihan doang :v
+coba coba :v
