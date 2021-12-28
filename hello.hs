@@ -1,5 +1,5 @@
 hello :: IO()
 hello = putstrLn("Hello, GitHub!")
 
-amriz :: IO()
-amriz = putstrLn("Hello, amriz!)
+hai :: IO()
+hai = putstrLn("Hello, amriz!)
