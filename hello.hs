@@ -9,3 +9,6 @@ plus2 x = x+2
 
 konso :: Int -> [Int] -> [Int]
 konso l x = [x] ++ l
+
+konsDot :: [Int] -> Int -> [Int]
+konsDot l x = l ++ [x]
