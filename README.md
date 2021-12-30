@@ -1,2 +1,2 @@
 # Latihan
-coba coba :v
+coba coba fitur git dan github
