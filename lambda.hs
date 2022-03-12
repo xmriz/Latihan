@@ -1,5 +1,5 @@
 lambda :: Int -> Int
-lambda2 :: Int -> Float
+lambda2 :: Int -> Int
 
-lambda x = \x -> x*x
-lambda2 x = \x -> fromIntegral(x)/2
+lambda x = x*x
+lambda2 x = div x 2
